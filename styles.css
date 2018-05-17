@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  padding: 1px;
+  margin: 0 auto;
+  border: 3px solid #000;
+  min-width: 350px;
+  max-width: 350px;
+  box-shadow: 10px 10px 8px grey;
+  border-radius: 10px;
+  background-color: #000;
+}
+
+h1 {
+  font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding-left: 25px;
+  color: goldenrod;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  border: 2px solid goldenrod;
+  border-radius: 5px;
+}
+
+#card {
+  padding-left: 12px;
+  padding-right: 12px;
+  border: 2px solid goldenrod;
+  width: 276px;
+  margin: 0 auto;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border-radius: 5px;
+  background: rgba(177, 198, 218, 0.747);
+}
+
+#interesting-fact {
+  font-style: italic;
+  font-size: 15px;
+  margin: 5px 0px 15px 0px;
+}
+
+#facts {
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+#summary {
+  font-size: 15px;
+}
